@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annacodes
-- 👀 I’m a linguist who also likes talking to machines.
+- 👀 I’m a linguist who codes.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking for other people working in the Localization field to join the conversation.
 - 📫 If you would like to get in touch, visit my website www.annamura.de
